@@ -9,7 +9,7 @@ This dashbord helps the airliness understand their customers better. It helps th
 
 
 # Step followed:
-1. Load data int Tabeau Desktop, dataset is a csv file. 
+1. Load data into Tabeau Desktop, dataset is a csv file. 
 2. Creation of a new relationship between files. 
 3. Creation of an average custom metric by country (map, custom parameter, calculated field, advanced filters).
 4. Creation of an average custom metric By Month (line chart).
