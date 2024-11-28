@@ -16,6 +16,6 @@ This dashbord helps the airliness understand their customers better. It helps th
 5. Create average custom metric by aircraft (double bar chart).
 6. Create and format a dashboard (linking all elements).
 
-#Tableau project: 
+# Tableau project: 
 https://public.tableau.com/app/profile/krzysztof.drwal/viz/shared/BBRCZZ5MT
 
