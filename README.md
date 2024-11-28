@@ -9,10 +9,10 @@ This dashbord helps the airliness understand their customers better. It helps th
 
 
 # Step followed:
-1. Loading the data into Tabeau Desktop, the data set is a csv file. 
-2. create a new relationship between the files. 
+1. Loading the data into Tableau Desktop, the data set is a csv file. 
+2. Create a new relationship between the files. 
 3. Create an average custom metric by country (map, custom parameter, calculated field, advanced filters).
-4 Create an average custom metric by month (line chart).
+4  Create an average custom metric by month (line chart).
 5. Create average custom metric by aircraft (double bar chart).
 6. Create and format a dashboard (linking all elements).
 
