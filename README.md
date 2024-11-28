@@ -9,9 +9,13 @@ This dashbord helps the airliness understand their customers better. It helps th
 
 
 # Step followed:
-1. Load data into Tabeau Desktop, dataset is a csv file. 
-2. Creation of a new relationship between files. 
-3. Creation of an average custom metric by country (map, custom parameter, calculated field, advanced filters).
-4. Creation of an average custom metric By Month (line chart).
-5. Creation of an average custom metric By Aircraft (dual bar chart).
-6. Building and formatting the dashboard (putting everything together).
+1. Loading the data into Tabeau Desktop, the data set is a csv file. 
+2. create a new relationship between the files. 
+3. Create an average custom metric by country (map, custom parameter, calculated field, advanced filters).
+4 Create an average custom metric by month (line chart).
+5. Create average custom metric by aircraft (double bar chart).
+6. Create and format a dashboard (linking all elements).
+
+#Tableau project: 
+https://public.tableau.com/app/profile/krzysztof.drwal/viz/shared/BBRCZZ5MT
+
